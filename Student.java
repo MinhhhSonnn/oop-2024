@@ -72,7 +72,7 @@ public class Student {
    */
   Student(Student s) {
     // TODO:
-    this.name = s.name;
+    this.name = s.nam;
     this.id = s.id;
     this.group = s.group;
     this.email = s.email;
